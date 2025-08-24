@@ -1,0 +1,12 @@
+# Archivos temporales de SolidWorks
+~$*
+*.SLDWRK
+*.SLDPRTBK
+*.SLDASMBK
+*.BAK
+*.TMP
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.lnk
